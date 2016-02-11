@@ -1,4 +1,4 @@
-cask :v1 => 'draftsight' do
+cask 'draftsight' do
   version '2015 SP3'
   sha256 'a87063af1e984ddfbd7b5db46aebb23f708f7b77ad0e8fed77942a98d13fc94c'
 
